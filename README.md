@@ -1,6 +1,5 @@
 <h2 align="center"> Hi 👋, I'm Carmen </h2>
 
-<h3 align="center"> I'm a Mechanic Engineer, currently training as a Frontend. </h3>
  
 I love to build things for the Web. My favorites languages are Swift and JavaScript. But I love to create things with HTML and CSS 💖
 
