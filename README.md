@@ -5,7 +5,7 @@ I love to build things for the Web. My favorites languages are Swift and JavaScr
 
 #### 📩 Contact me: 
 <div align="center">
-    <a href="[https://www.linkedin.com/in/mar%C3%ADa-m-b81bbb1b8/](https://www.linkedin.com/in/mar%C3%ADa-del-carmen-m-b81bbb1b8/)" target="_pink">
+    <a href="https://www.linkedin.com/in/mar%C3%ADa-del-carmen-m-b81bbb1b8/" target="_pink">
         <img src="https://img.shields.io/badge/LinkedIn-%23181818?logo=linkedin&style=for-the-badge"/>
     </a>
     <a href="mailto:carmenmtzunam97@gmail.com" target="_blank">
